@@ -1,5 +1,5 @@
 # Projeto Backend Digital College
-**Desenvolvido por:** Moisés da silva erruda Lino e Gabriela oliveira de Sousa
+**Desenvolvido por:** Moisés da Silva Arruda Lino e Gabriela Oliveira de Sousa
 
 Este é o projeto final do módulo de Back-end, implementado integralmente conforme o escopo oficial do repositório de avaliação. A API conta com autenticação por Tokens e fornece os endpoints de CRUD para Usuários, Categorias e Produtos.
 

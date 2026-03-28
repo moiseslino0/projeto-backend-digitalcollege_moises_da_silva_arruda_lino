@@ -9,7 +9,7 @@
     "test": "jest --detectOpenHandles --forceExit"
   },
   "keywords": [],
-  "author": "",
+  "author": "Moisés Lino e Gabriela Oliveira de Sousa",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
